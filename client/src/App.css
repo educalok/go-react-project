@@ -1,0 +1,5 @@
+.container {
+  display: grid;
+  justify-content: space-around;
+  margin: 1.5rem;
+}
