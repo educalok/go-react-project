@@ -13,7 +13,7 @@ import (
 	"go.mongodb.org/mongo-driver/mongo/options"
 	"github.com/joho/godotenv"
 
-	"github.com/educalok/go-react-app/models"
+	"github.com/educalok/go-react-project/models"
 )
 
 func main() {

@@ -1,4 +1,4 @@
-module github.com/educalok/go-react-app
+module github.com/educalok/go-react-project
 
 go 1.18
 
